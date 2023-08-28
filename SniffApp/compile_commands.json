@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/livknight/projects/SniffApp",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/sniffapp.dir/main.cpp.o -c /home/livknight/projects/SniffApp/main.cpp",
+  "file": "/home/livknight/projects/SniffApp/main.cpp"
+},
+{
+  "directory": "/home/livknight/projects/SniffApp",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/sniffapp.dir/Params.cpp.o -c /home/livknight/projects/SniffApp/Params.cpp",
+  "file": "/home/livknight/projects/SniffApp/Params.cpp"
+},
+{
+  "directory": "/home/livknight/projects/SniffApp",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/sniffapp.dir/Sniff.cpp.o -c /home/livknight/projects/SniffApp/Sniff.cpp",
+  "file": "/home/livknight/projects/SniffApp/Sniff.cpp"
+},
+{
+  "directory": "/home/livknight/projects/SniffApp",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/sniffapp.dir/FileID.cpp.o -c /home/livknight/projects/SniffApp/FileID.cpp",
+  "file": "/home/livknight/projects/SniffApp/FileID.cpp"
+},
+{
+  "directory": "/home/livknight/projects/SniffApp",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/sniffapp.dir/tools.cpp.o -c /home/livknight/projects/SniffApp/tools.cpp",
+  "file": "/home/livknight/projects/SniffApp/tools.cpp"
+}
+]

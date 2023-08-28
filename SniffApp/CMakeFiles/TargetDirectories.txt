@@ -1,0 +1,7 @@
+/home/livknight/projects/SniffApp/CMakeFiles/sniffapp.dir
+/home/livknight/projects/SniffApp/CMakeFiles/edit_cache.dir
+/home/livknight/projects/SniffApp/CMakeFiles/rebuild_cache.dir
+/home/livknight/projects/SniffApp/CMakeFiles/list_install_components.dir
+/home/livknight/projects/SniffApp/CMakeFiles/install.dir
+/home/livknight/projects/SniffApp/CMakeFiles/install/local.dir
+/home/livknight/projects/SniffApp/CMakeFiles/install/strip.dir

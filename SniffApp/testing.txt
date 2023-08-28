@@ -1,0 +1,12 @@
+--------------------------------------
+Start At: /mnt/c/Users/muirins/SniffTesting
+Output File: testing.txt
+Verbose? Yes
+Case Sensitive? No
+Search Terms: boom
+--------------------------------------
+Start At: /mnt/c/Users/muirins/SniffTesting
+Output File: testing.txt
+Verbose? Yes
+Case Sensitive? No
+Search Terms: boom

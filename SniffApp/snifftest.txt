@@ -1,0 +1,300 @@
+--------------------------------------
+Start At: /home/livknight/SniffTesting/
+Output File: snifftest.txt
+Verbose? No
+Case Sensitive? No
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting/
+Output File: snifftest.txt
+Verbose? No
+Case Sensitive? No
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting/
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? Yes
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? Yes
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? Yes
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? Yes
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? Yes
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? Yes
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? Yes
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? Yes
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? Yes
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? Yes
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? Yes
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? Yes
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? Yes
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? Yes
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? Yes
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? Yes
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? No
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? Yes
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? No
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? Yes
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? No
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? No
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? No
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? No
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? No
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? No
+Search Terms: boom
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? No
+Search Terms: boom
+Current Directory / File: notsuspicious.txt
+Current Directory / File: susfile2.rtf
+Current Directory / File: susfile1.txt
+iNode: 14121
+Path: /home/livknight/SniffTesting/susfile2.rtf
+---------------------------------------------
+iNode: 14068
+Path: /home/livknight/SniffTesting/susfile1.txt
+---------------------------------------------
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? No
+Search Terms: boom
+Current Directory / File: notsuspicious.txt
+Current Directory / File: susfile2.rtf
+Current Directory / File: susfile1.txt
+iNode: 14121
+Path: /home/livknight/SniffTesting/susfile2.rtf
+---------------------------------------------
+iNode: 14068
+Path: /home/livknight/SniffTesting/susfile1.txt
+---------------------------------------------
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? No
+Search Terms: boom
+Current Directory / File: notsuspicious.txt
+Current Directory / File: susfile2.rtf
+Current Directory / File: susfile1.txt
+iNode: 14121
+Path: /home/livknight/SniffTesting/susfile2.rtf
+---------------------------------------------
+iNode: 14068
+Path: /home/livknight/SniffTesting/susfile1.txt
+---------------------------------------------
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? No
+Search Terms: boom
+Current Directory / File: notsuspicious.txt
+Current Directory / File: susfile2.rtf
+Current Directory / File: susfile1.txt
+****************************
+Sniff terms were found in the following file(s):
+iNode: 14121
+Path: /home/livknight/SniffTesting/susfile2.rtf
+---------------------------------------------
+****************************
+Sniff terms were found in the following file(s):
+iNode: 14068
+Path: /home/livknight/SniffTesting/susfile1.txt
+---------------------------------------------
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? No
+Search Terms: boom
+Current Directory / File: notsuspicious.txt
+Current Directory / File: susfile2.rtf
+Current Directory / File: susfile1.txt
+****************************
+Sniff terms were found in the following file(s):
+iNode: 14121
+Path: /home/livknight/SniffTesting/susfile2.rtf
+---------------------------------------------
+iNode: 14068
+Path: /home/livknight/SniffTesting/susfile1.txt
+---------------------------------------------
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? No
+Search Terms: boom
+Current Directory / File: notsuspicious.txt
+Current Directory / File: susfile2.rtf
+Current Directory / File: susfile1.txt
+****************************
+Sniff terms were found in the following file(s):
+iNode: 14121
+Path: /home/livknight/SniffTesting/susfile2.rtf
+---------------------------------------------
+iNode: 14068
+Path: /home/livknight/SniffTesting/susfile1.txt
+---------------------------------------------
+END OF SEARCH
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? No
+Search Terms: boom
+Current Directory / File: notsuspicious.txt
+Current Directory / File: susfile2.rtf
+Current Directory / File: susfile1.txt
+****************************
+Sniff terms were found in the following file(s):
+iNode: 14121
+Path: /home/livknight/SniffTesting/susfile2.rtf
+---------------------------------------------
+iNode: 14068
+Path: /home/livknight/SniffTesting/susfile1.txt
+---------------------------------------------
+END OF SEARCH
+--------------------------------------
+Start At: /home/livknight/SniffTesting
+Output File: snifftest.txt
+Verbose? Yes
+Case Sensitive? Yes
+Search Terms: boom
+Current Directory / File: notsuspicious.txt
+Current Directory / File: susfile2.rtf
+Current Directory / File: susfile1.txt
+****************************
+Sniff terms were found in the following file(s):
+iNode: 14121
+Path: /home/livknight/SniffTesting/susfile2.rtf
+---------------------------------------------
+END OF SEARCH

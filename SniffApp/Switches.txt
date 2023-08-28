@@ -1,0 +1,19 @@
+Olivia Knight 
+CSCI 4547
+Program 2: Sniff 
+Switch Explanation file
+------------------------------------------------------------------
+Switches Needed:
+*Case sensitivity switch (optional, case sensitive by default)
+	1. -c
+		2. since the user would probably use this to make it case insensitive, no argument is needed
+*search start switch (needs argument of pathname, cwd at default)
+	1. --root [pathname] / -r [pathname]
+		2. Using root since the given directory name would be the base/root of the search.
+*output switch (needs output file argument, screen output at default.)
+	1. -o [filename]
+*verbose switch
+	1. --verbose -v
+		2. print the name of every file and directory that is opened.
+*help switch
+	1. --help
